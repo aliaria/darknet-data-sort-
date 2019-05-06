@@ -1,0 +1,22 @@
+Enter Image Path: data/img/Universite_Laval_2017_08_08_21_14_30.jpg: Predicted in 533.579000 milli-seconds.
+traffic light: 31%	(left_x:  172   top_y:  253   width:   21   height:   26)
+car: 27%	(left_x:  467   top_y:  314   width:   47   height:   33)
+car: 92%	(left_x:  805   top_y:  317   width:   93   height:   38)
+car: 26%	(left_x:  840   top_y:  316   width:   89   height:   40)
+car: 99%	(left_x:  901   top_y:  307   width:  138   height:   51)
+car: 92%	(left_x: 1098   top_y:  304   width:  162   height:   67)
+Enter Image Path: data/img/Universite_Laval_2017_08_08_21_29_38.jpg: Predicted in 531.040000 milli-seconds.
+Enter Image Path: data/img/Universite_Laval_2017_08_08_21_44_30.jpg: Predicted in 535.350000 milli-seconds.
+traffic light: 25%	(left_x:  174   top_y:  252   width:   19   height:   28)
+car: 27%	(left_x:  828   top_y:  281   width:  143   height:   70)
+car: 87%	(left_x: 1050   top_y:  286   width:  130   height:   52)
+Enter Image Path: data/img/Universite_Laval_2017_08_08_21_59_30.jpg: Predicted in 536.177000 milli-seconds.
+Enter Image Path: data/img/Universite_Laval_2017_08_09_05_59_21.jpg: Predicted in 535.053000 milli-seconds.
+traffic light: 53%	(left_x:  158   top_y:  255   width:   32   height:   17)
+traffic light: 36%	(left_x:  636   top_y:  223   width:   32   height:   13)
+traffic light: 44%	(left_x:  650   top_y:  222   width:   32   height:   13)
+traffic light: 51%	(left_x:  720   top_y:  269   width:   19   height:   32)
+traffic light: 57%	(left_x:  721   top_y:  186   width:   29   height:   62)
+person: 47%	(left_x:  863   top_y:  310   width:   23   height:   29)
+car: 99%	(left_x:  942   top_y:  309   width:  134   height:   48)
+car: 90%	(left_x: 1083   top_y:  279   width:   47   height:   19)
