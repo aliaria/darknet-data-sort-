@@ -1,0 +1,9 @@
+Enter Image Path: data/img/Universite_Laval_2017_08_08_15_44_22.jpg: Predicted in 521.120000 milli-seconds.
+Enter Image Path: data/img/Universite_Laval_2017_08_08_15_59_21.jpg: Predicted in 523.509000 milli-seconds.
+wheelchair user: 66%	(left_x:   57   top_y:  395   width:   78   height:   93)
+Enter Image Path: data/img/Universite_Laval_2017_08_08_16_14_22.jpg: Predicted in 523.279000 milli-seconds.
+wheelchair user: 27%	(left_x:  459   top_y:  367   width:   78   height:   78)
+Enter Image Path: data/img/Universite_Laval_2017_08_08_16_29_21.jpg: Predicted in 521.727000 milli-seconds.
+wheelchair user: 28%	(left_x:  758   top_y:  358   width:   48   height:  117)
+Enter Image Path: data/img/Universite_Laval_2017_08_08_16_44_21.jpg: Predicted in 521.366000 milli-seconds.
+wheelchair user: 56%	(left_x:  780   top_y:  368   width:   52   height:   84)
