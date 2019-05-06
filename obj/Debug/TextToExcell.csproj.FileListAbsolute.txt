@@ -1,0 +1,10 @@
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\bin\Debug\TextToExcell.exe.config
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\bin\Debug\TextToExcell.exe
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\bin\Debug\TextToExcell.pdb
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\obj\Debug\TextToExcell.csprojAssemblyReference.cache
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\obj\Debug\TextToExcell.ImageObject.resources
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\obj\Debug\TextToExcell.Properties.Resources.resources
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\obj\Debug\TextToExcell.csproj.GenerateResource.cache
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\obj\Debug\TextToExcell.csproj.CoreCompileInputs.cache
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\obj\Debug\TextToExcell.exe
+C:\Users\Mahmood\source\repos\TextToExcell\TextToExcell\obj\Debug\TextToExcell.pdb
